@@ -1,7 +1,7 @@
 ---
 title: "Ma nouvelle réunion"
 date: 2024-04-24
-image: "/images/reunion-factice.jpg"
+image: "https://github.com/hugo-astier/udsc-crevoux/assets/11679496/2ee45930-f05b-4bbb-8680-fd6871971aac"
 categories: ["Réunion"]
 author: "Hugo Astier"
 draft: false
@@ -14,4 +14,6 @@ La réunion a débuté par une présentation détaillée de Jean Dupont concerna
 
 - Effectuer une étude de marché plus approfondie sur les régions spécifiques d'intérêt.
 - Créer un comité de pilotage pour superviser le projet d'expansion, avec Liu Wei comme responsable du comité.
-- Planifier une série de voyages d'affaires pour les membres clés de l'équipe afin de rencontrer des partenaires potentiels.![fictional-meeting](https://github.com/hugo-astier/udsc-crevoux/assets/11679496/2ee45930-f05b-4bbb-8680-fd6871971aac)
+- Planifier une série de voyages d'affaires pour les membres clés de l'équipe afin de rencontrer des partenaires potentiels.
+
+![fictional-meeting](https://github.com/hugo-astier/udsc-crevoux/assets/11679496/2ee45930-f05b-4bbb-8680-fd6871971aac)
