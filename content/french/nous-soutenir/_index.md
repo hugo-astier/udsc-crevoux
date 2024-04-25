@@ -15,4 +15,4 @@ En devenant adhérent vous nous aiderez à:
 \- Fédérer (actions de convivialité,…)<br>
 \- Dynamiser Crévoux (organisations de manifestations sportives et culturelles)<br>
 
-{{< button label="Télécharger votre bulletin d’adhésion" link="/" style="solid" >}}
+{{< button label="Télécharger votre bulletin d’adhésion" link="./bul-adhesion.pdf" style="solid" >}}
