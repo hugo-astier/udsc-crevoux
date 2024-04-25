@@ -1,7 +1,5 @@
 ---
 title: "Réunion le jeudi 8 février à 17h30"
-meta_title: ""
-description: "this is meta description"
 date: 2024-01-25
 image: "/images/reunion-placeholder.jpg"
 categories: ["Réunion"]

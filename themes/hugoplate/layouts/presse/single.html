@@ -65,7 +65,9 @@
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false "Reddit" false) }}
             </div>
           </div>
-          <a class="btn btn-primary mt-10 mb-10" href="/udsc/contact">
+          <a
+            class="btn btn-primary mt-10 mb-10"
+            href="{{ "contact/" | absURL }}">
             un retour ? Dites le nous
           </a>
           <!-- comments

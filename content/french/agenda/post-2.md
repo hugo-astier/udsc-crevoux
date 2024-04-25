@@ -1,8 +1,6 @@
 ---
 title: "Rencontre avec le maire de Crevoux le 12 janvier 2024 "
-meta_title: ""
-description: "this is meta description"
-date: 2024-01-01T12:00:00Z
+date: 2024-01-01
 image: "/images/image-placeholder.png"
 categories: ["Rencontre"]
 author: "Bruno Sturlese"
