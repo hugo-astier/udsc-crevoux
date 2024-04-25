@@ -1,6 +1,6 @@
 ---
 title: "Rencontre avec le maire de Crevoux le 12 janvier 2024 "
-meta_title: ""
+meta_title: "ceci est un test"
 description: "this is meta description"
 date: 2024-01-01T12:00:00Z
 image: "/images/image-placeholder.png"
