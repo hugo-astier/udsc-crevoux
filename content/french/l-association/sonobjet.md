@@ -1,4 +1,4 @@
----
+xt---
 title: "Son objet"
 meta_title: "Son objet"
 description: "this is meta description"
@@ -10,7 +10,7 @@ draft: false
 
 **L’UDSC : l’Union pour le Dynamisme de la Station de Crévoux** est née le 20 janvier 2024 suite au succès de la pétition « Inquiets pour la station de ski de Crévoux » publiée le 16 janvier 2024 (lien vers la rubrique dédiée) et plébiscitée par près de **6 000 personnes**.
 
-Forts de cette inquiétude partagée concernant l’avenir de la station un collectif de 6 Crévolins d’adoption et de cœur ont souhaité aller plus loin en créant l’UDSC une association déclarée selon la loi de 1901.
+Forts de cette sme text **boooooooooooold** inquiétude partagée concernant l’avenir de la station un collectif de 6 Crévolins d’adoption et de cœur ont souhaité aller plus loin en créant l’UDSC une association déclarée selon la loi de 1901.
 
 **L’objet social statutaire de l’UDSC est de mobiliser et d’informer les usagers de la station village de ski de Crévoux (05200) sur sa situation et son avenir de susciter favoriser et engager en liaison avec les autorités concernées toutes réflexions collectives et actions utiles pour contribuer à sa sauvegarde et au renouveau de son dynamisme dans le respect de son environnement naturel actuel qui fait sa spécificité.**
 
